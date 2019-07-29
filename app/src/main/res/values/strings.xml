@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mediapembelajaran</string>
+    <string name="tekan_untuk_memulai">TEKAN UNTUK MEMULAI</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about">ABOUT</string>
+    <string name="halaman_awal">HALAMAN AWAL</string>
+    <string name="pembelajaran">PEMBELAJARAN</string>
+</resources>
